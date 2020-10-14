@@ -20,11 +20,11 @@
 <code>
 [![Blog Badge](https://img.shields.io/badge/-anditya-gray?style=flat&labelColor=000000&logo=wordpress&link=https://anditya.staff.telkomuniversity.ac.id/)](https://anditya.staff.telkomuniversity.ac.id/)</code>
 
-## My course repositories
+## My Lecture Course repositories
 - <img src="https://avatars0.githubusercontent.com/u/54133118?s=200&v=4" alt="git" width="20" height="20"/>  [Convolutional Neural Network](https://github.com/CNN-ADF)
 - <img src="https://avatars3.githubusercontent.com/u/16660478?s=200&v=4" alt="git" width="20" height="20"/>  [Object-oriented Programming](https://github.com/OOP-ADF)
 - <img src="https://avatars2.githubusercontent.com/u/13241389?s=200&v=4" alt="git" width="20" height="20"/>  [Data Structure](https://github.com/ASD-ADF)
-
+- <img src="https://cdn.iconscout.com/icon/free/png-512/github-brand-logo-47401.png" alt="git" width="20" height="20"/>  [Computer Vision](https://github.com/adf-telkomuniv/CV2020_Exercises)
 
 
 ## Stats
