@@ -1,8 +1,8 @@
 ## Hi there <img width="45" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif">, My name is Anditya
 
 ## A bit about me
-- 📜 I am a lecturer and researcher at Telkom University, Indonesia
-- 🌱 I'm currently doing my PhD at Nagoya University, Japan
+- 📜 I am a lecturer and researcher at [Telkom University](https://telkomuniversity.ac.id/), Indonesia
+- 🌱 I'm currently doing my PhD at [Nagoya University](https://www.cs.is.i.nagoya-u.ac.jp/), Japan
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
