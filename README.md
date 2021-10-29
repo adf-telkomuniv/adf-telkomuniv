@@ -36,6 +36,8 @@
 <code><img height="20" src="https://img.shields.io/badge/-java-00599C?style=flat&logo=java&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/-JavaScript-00599C?style=flat&logo=javascript&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/-Nodejs-00599C?style=flat&logo=Node.js&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Laravel-00599C?style=flat&logo=Laravel&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/-PHP-00599C?style=flat&logo=PHP&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/-MATLAB-00599C?style=flat&logo=Mathworks&logoColor=white"></code><br>
 <code><img height="20" src="https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></code>
