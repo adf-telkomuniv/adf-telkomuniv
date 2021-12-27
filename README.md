@@ -14,7 +14,7 @@
 <code>
 [![Instagram Badge](https://img.shields.io/badge/-undeedz-E34A86?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/undeedz/)](https://instagram.com/undeedz)</code>
 <code>
-[![Youtube Badge](https://img.shields.io/badge/-anditya-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCXm8kCPCryqg3ey2U36eVcQ/)](https://www.youtube.com/channel/UCXm8kCPCryqg3ey2U36eVcQ/)</code>
+[![Youtube Badge](https://img.shields.io/badge/-anditya-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/c/AndityaArifianto )](https://www.youtube.com/c/AndityaArifianto)</code>
 <code>
 [![Medium Badge](https://img.shields.io/badge/-@undeed-black?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@undeed/)](https://medium.com/@undeed)</code>
 <code>
